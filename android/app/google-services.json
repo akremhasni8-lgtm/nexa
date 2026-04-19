@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "184859242203",
+    "project_id": "nexa-app-prod",
+    "storage_bucket": "nexa-app-prod.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184859242203:android:a06109ec8e8ecfa59526fe",
+        "android_client_info": {
+          "package_name": "com.example.nexa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184859242203-ra3uf6sjj2ri6j2buv0f1niem0tabr38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nexa_app",
+            "certificate_hash": "c0eafb6252ff9aad0e16e9b093ff26f946671674"
+          }
+        },
+        {
+          "client_id": "184859242203-qubg72hf1rk2i4puap1qs232766aij6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX8gPGkFFCSi69H-se8zcjS-gncCdd5LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184859242203-qubg72hf1rk2i4puap1qs232766aij6q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "184859242203-v7lmaq2j7pdsu1tpd7tj7ov8s63n1g0d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nexaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
